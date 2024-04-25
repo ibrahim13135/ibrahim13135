@@ -13,7 +13,7 @@ Hey there! I'm <span style="color:blue;">Ibrahim Mahmoud</span>
   <div style="margin: 20px;">
   </div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim13135&theme=dark" alt="Streak" style="margin: 20px;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=2Hasan2&show_icons=true&theme=radical" style="margin: 20px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ibrahim13135&show_icons=true&theme=radical" style="margin: 20px;"/>
   </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ibrahim13135&style=for-the-badge&color=ff0000" alt="Profile views in 2023" />
