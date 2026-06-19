@@ -1,16 +1,16 @@
-<div align="center">
+&lt;div align="center"&gt;
 
-<img src="./banner.png" alt="Ibrahim Mahmoud — AgriTech & Backend Engineering" width="100%" />
+&lt;img src="./banner.png" alt="Ibrahim Mahmoud — AgriTech & Backend Engineering" width="100%" /&gt;
 
 # Ibrahim Mahmoud
 
 ### Agricultural Engineer → Backend Developer | Building software for Egyptian farms
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2d5016?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-mahmoud-83106a320)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abrahimmahmoud5454@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim13135)
 
-</div>
+&lt;/div&gt;
 
 ---
 
@@ -38,9 +38,9 @@ I build systems that sit at that intersection — IoT sensors, FastAPI backends,
 
 ## 🧰 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td valign="top" width="33%"&gt;
 
 **Languages & Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -48,8 +48,8 @@ I build systems that sit at that intersection — IoT sensors, FastAPI backends,
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+&lt;/td&gt;
+&lt;td valign="top" width="33%"&gt;
 
 **Data & Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -57,8 +57,8 @@ I build systems that sit at that intersection — IoT sensors, FastAPI backends,
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 
-</td>
-<td valign="top" width="33%">
+&lt;/td&gt;
+&lt;td valign="top" width="33%"&gt;
 
 **Systems & Tools**
 ![IoT](https://img.shields.io/badge/IoT-87bc4b?style=flat-square&logo=internetcomputer&logoColor=white)
@@ -66,66 +66,66 @@ I build systems that sit at that intersection — IoT sensors, FastAPI backends,
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-</td>
-</tr>
-</table>
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 
 ---
 
 ## 📌 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td width="50%"&gt;
 
 ### 🌾 [NileTrace](https://github.com/ibrahim13135/niletrace)
 Export traceability platform for Egyptian agricultural SMEs. Farm registration → harvest batching → processing chain → lab compliance → QR-traceable shipping docs.
 
 `FastAPI` `PostgreSQL` `QR/PDF` — *In active development*
 
-</td>
-<td width="50%">
+&lt;/td&gt;
+&lt;td width="50%"&gt;
 
 ### 🚜 [Graduation Project — IoT Precision Agriculture](https://github.com/ibrahim13135/Graduation_Project)
 Sensor-driven irrigation and crop monitoring system. Reduced water usage by 25–30% in field testing through automated, data-driven irrigation scheduling.
 
 `IoT` `Sensors` `PLC` `Automation`
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td width="50%"&gt;
 
 ### 🍃 [Plant Disease CNN](https://github.com/ibrahim13135/plant-disease-cnn)
 Convolutional neural network for early plant disease detection from leaf imagery, achieving 92% classification accuracy across target crop diseases.
 
 `Python` `TensorFlow/Keras` `CNN`
 
-</td>
-<td width="50%">
+&lt;/td&gt;
+&lt;td width="50%"&gt;
 
 ### 💧 [Weather Evaporation Model](https://github.com/ibrahim13135/weather-evaporation-model)
 Data science model estimating crop water demand from regional weather data — supports irrigation planning decisions for Egyptian field conditions.
 
 `Python` `Data Science` `Modeling`
 
-</td>
-</tr>
-</table>
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahim13135&show_icons=true&theme=radical&hide_border=true&bg_color=0a0f0a&title_color=87bc4b&icon_color=4a7c23" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim13135&theme=radical&hide_border=true&background=0a0f0a&ring=87bc4b&fire=87bc4b" alt="GitHub Streak" height="165"/>
-</div>
+&lt;div align="center"&gt;
+&lt;img src="https://github-readme-stats.vercel.app/api?username=ibrahim13135&show_icons=true&theme=radical&hide_border=true&bg_color=0a0f0a&title_color=87bc4b&icon_color=4a7c23" alt="GitHub Stats" height="165"/&gt;
+&lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim13135&theme=radical&hide_border=true&background=0a0f0a&ring=87bc4b&fire=87bc4b" alt="GitHub Streak" height="165"/&gt;
+&lt;/div&gt;
 
 ---
 
-<div align="center">
+&lt;div align="center"&gt;
 
 *Building the bridge between Egyptian soil and cloud infrastructure.*
 
-</div>
+&lt;/div&gt;
