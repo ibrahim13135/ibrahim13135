@@ -1,214 +1,131 @@
-&lt;!-- Banner --&gt;
-&lt;p align="center"&gt;
-  &lt;img src="https://raw.githubusercontent.com/ibrahim13135/ibrahim13135/main/banner.png" alt="Ibrahim Mahmoud" /&gt;
-&lt;/p&gt;
+<div align="center">
 
-&lt;h1 align="center"&gt;Ibrahim Mahmoud&lt;/h1&gt;
-&lt;h3 align="center"&gt;Agricultural Engineer · Backend Developer (ALX) · IoT & Precision Agriculture Systems&lt;/h3&gt;
+<img src="./banner.png" alt="Ibrahim Mahmoud — AgriTech & Backend Engineering" width="100%" />
 
-&lt;p align="center"&gt;
-  &lt;img src="https://img.shields.io/badge/📍-Egypt-2d5016?style=flat-square" alt="Location" /&gt;
-  &lt;a href="mailto:abrahimmahmoud5454@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/✉️-Email-87bc4b?style=flat-square" alt="Email" /&gt;&lt;/a&gt;
-  &lt;a href="https://www.linkedin.com/in/ibrahim-mahmoud-83106a320/"&gt;&lt;img src="https://img.shields.io/badge/💼-LinkedIn-2d5016?style=flat-square" alt="LinkedIn" /&gt;&lt;/a&gt;
-  &lt;a href="https://github.com/ibrahim13135"&gt;&lt;img src="https://img.shields.io/badge/🐙-GitHub-87bc4b?style=flat-square" alt="GitHub" /&gt;&lt;/a&gt;
-&lt;/p&gt;
+# Ibrahim Mahmoud
 
----
+### Agricultural Engineer → Backend Developer | Building software for Egyptian farms
 
-## The Gap I Fill
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2d5016?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR-PORTFOLIO-LINK)
 
-Most agricultural engineers stop at soil and irrigation. Most software engineers have never stepped on a farm.
-
-**I do both.**
-
-I build the systems that connect Egyptian agriculture to modern technology — from IoT sensors in the field to cloud databases that generate export compliance certificates.
+</div>
 
 ---
 
-## What I Have Built
+## About Me
 
-### 🌾 NileTrace — Agricultural Export Traceability Platform
-&gt; *FastAPI · PostgreSQL · Azure Data Pipeline · QR Traceability*
+I'm an Agricultural Engineer (Ain Shams University) who taught himself backend development through ALX's Software Engineering program — not as a career pivot, but to fix problems I kept seeing in the field: no traceability, no data, no tooling built for how Egyptian farms actually work.
 
-End-to-end farm-to-port batch tracking for Egyptian exporters. Auto-generates EU phytosanitary compliance documents, QR codes for consumer transparency, and real-time dashboard analytics.
+I build systems that sit at that intersection — IoT sensors, FastAPI backends, and data pipelines designed for irrigation, pest management, and agricultural export compliance.
 
-**Status:** In active development · [Repository](https://github.com/ibrahim13135/niletrace)
-
----
-
-### 🚰 IoT Precision Agriculture System — Graduation Project
-&gt; *Python · Flask · MQTT · PostgreSQL · AC/DC Relay Control*
-
-Automated irrigation platform controlling pumps, valves, and lighting via sensor-driven backend logic. UTC-synchronized scheduling with manual override fail-safes.
-
-- **Reduced estimated water consumption by 25-30%** vs. timer-based systems
-- Real-time soil moisture + environmental monitoring
-- Remote API control with data logging for farm managers
-
-**[Repository](https://github.com/ibrahim13135/Graduation_Project)**
+- 🌱 Agricultural Engineering background — irrigation systems, pest management, crop monitoring
+- 💻 Backend development — Python, FastAPI, Flask, Express.js
+- 📡 IoT systems — sensor integration, automation, PLC logic
+- 🗄️ Databases — PostgreSQL, MongoDB, Redis, SQLAlchemy
+- 🤖 Applied ML — CNN-based plant disease detection, climate/evaporation modeling
 
 ---
 
-### 🍃 AI Plant Disease Detection
-&gt; *Python · TensorFlow/Keras · CNN · Flask API*
+## 🔭 Currently Building
 
-Convolutional Neural Network classifying 10 crop diseases from leaf imagery. Deployed as inference API for farmer-facing diagnostic tool.
+**[NileTrace](https://github.com/ibrahim13135/niletrace)** — an agricultural export traceability platform for Egyptian SME exporters (dates, citrus, herbs). It tracks a harvest batch from the farm plot through processing, lab testing, and shipment, generating QR-traceable compliance documents along the way — built for exporters who currently do this on paper.
 
-- **92% validation accuracy** across disease classes
-- Image augmentation pipeline for limited datasets
-
-**[Repository](https://github.com/ibrahim13135/plant-disease-cnn)**
+**Tech:** FastAPI · PostgreSQL + SQLAlchemy 2.0 · Alembic · JWT auth · ReportLab (PDF generation) · QR traceability · Streamlit (MVP frontend)
 
 ---
 
-### 🌤️ Weather & Evaporation Modeling
-&gt; *Python · scikit-learn · Time Series Regression*
+## 🧰 Tech Stack
 
-Predictive models for localized evapotranspiration rates using historical meteorological data.
+<table>
+<tr>
+<td valign="top" width="33%">
 
-- **20% improvement** in irrigation timing accuracy
-
-**[Repository](https://github.com/ibrahim13135/weather-evaporation-model)**
-
----
-
-## Technical Skills
-
-**Programming Languages**
+**Languages & Backend**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-
-**Backend Development**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+</td>
+<td valign="top" width="33%">
+
+**Data & Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 
-**DevOps & Tools**
+</td>
+<td valign="top" width="33%">
+
+**Systems & Tools**
+![IoT](https://img.shields.io/badge/IoT-87bc4b?style=flat-square&logo=internetcomputer&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0A0A0A?style=flat-square&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Software Development**
-![Full Stack](https://img.shields.io/badge/Full_Stack-000000?style=flat-square)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-4285F4?style=flat-square)
-![Research](https://img.shields.io/badge/Research-FF6D00?style=flat-square)
-![Project Management](https://img.shields.io/badge/Project_Management-4285F4?style=flat-square)
-![Communication](https://img.shields.io/badge/Communication-34A853?style=flat-square)
-
-**Cloud (In Progress)**
-![Microsoft Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## Education & Training
+## 📌 Featured Projects
 
-### ALX Software Engineering — Backend Specialization
-**Graduated:** 2023–2025
+<table>
+<tr>
+<td width="50%">
 
-Intensive 12-month full-stack program covering:
+### 🌾 [NileTrace](https://github.com/ibrahim13135/niletrace)
+Export traceability platform for Egyptian agricultural SMEs. Farm registration → harvest batching → processing chain → lab compliance → QR-traceable shipping docs.
 
-| Module | Completion |
-|--------|------------|
-| Programming Foundations (Python, C, JavaScript) | ✅ |
-| AirBnB Clone — Full-Stack Application | ✅ 197% |
-| Networking Basics (OSI Model, TCP/IP, DNS) | ✅ |
-| Web Infrastructure Design (Load Balancers, SSL, Firewalls) | ✅ |
-| Configuration Management (Puppet, SSH) | ✅ |
-| Web Stack Debugging | ✅ |
-| Database Administration (MySQL, NoSQL, Redis) | ✅ |
-| API Development (RESTful, Authentication, Advanced) | ✅ |
-| DevOps & CI/CD | ✅ |
-| Portfolio Project — IoT Precision Agriculture | ✅ |
+`FastAPI` `PostgreSQL` `QR/PDF` — *In active development*
 
-**Key Achievements:**
-- Built complete AirBnB clone: console, web static, MySQL integration, web framework, RESTful API, web dynamic
-- Implemented authentication systems: Basic Auth, Session Auth, User Auth Service
-- Deployed web infrastructure with load balancers, HTTPS SSL, and monitoring
-- Completed ES6 JavaScript, TypeScript, and Python async programming specializations
+</td>
+<td width="50%">
 
----
+### 🚜 [Graduation Project — IoT Precision Agriculture](https://github.com/ibrahim13135/Graduation_Project)
+Sensor-driven irrigation and crop monitoring system. Reduced water usage by 25–30% in field testing through automated, data-driven irrigation scheduling.
 
-## Professional Experience
+`IoT` `Sensors` `PLC` `Automation`
 
-### Agricultural & Public Health Engineer | SOTAICO
-**2025 – Present | Cairo, Egypt**
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-- Designed and implemented IPM programs for commercial, agricultural, and healthcare facilities
-- Diagnosed and resolved complex infestation cases (rodents, insects, vectors)
-- Documented treatment activities and safety compliance in digital format
-- Advised clients on preventive structural modifications
+### 🍃 [Plant Disease CNN](https://github.com/ibrahim13135/plant-disease-cnn)
+Convolutional neural network for early plant disease detection from leaf imagery, achieving 92% classification accuracy across target crop diseases.
 
-### Customer Service Representative | Orange Egypt & Vodafone Egypt
-**Previous | Cairo, Egypt**
+`Python` `TensorFlow/Keras` `CNN`
 
-- Managed high-volume customer interactions across billing and technical support
-- Resolved complex client complaints with root-cause analysis
-- Consistently exceeded monthly KPI targets
+</td>
+<td width="50%">
+
+### 💧 [Weather Evaporation Model](https://github.com/ibrahim13135/weather-evaporation-model)
+Data science model estimating crop water demand from regional weather data — supports irrigation planning decisions for Egyptian field conditions.
+
+`Python` `Data Science` `Modeling`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Field Training & Certifications
+## 📊 GitHub Stats
 
-- **Egyptian Company for Supplies (ECS)** — Certified Training Program
-- **Sedra Group** — Certified Field Training (Crop health, irrigation systems)
-- **Talaat Moustafa Group (TMG)** — Certified Practical Training (Modern irrigation engineering)
-- **DigiLians Digital Pioneers** — Digital Agricultural Transformation Engineering
-- **ALX Founder Academy** — Entrepreneurship & Startup Strategy
-
----
-
-## Conferences & Events
-
-- International Conference on Climate & Environment (2024) — AI in modern farming
-- Green Economy Event — iHub, Ain Shams University
-- Sahara Expo & AgriTech Expo
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ibrahim13135&show_icons=true&theme=radical&hide_border=true&bg_color=0a0f0a&title_color=87bc4b&icon_color=4a7c23" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim13135&theme=radical&hide_border=true&background=0a0f0a&ring=87bc4b&fire=87bc4b" alt="GitHub Streak" height="165"/>
+</div>
 
 ---
 
-## Current Focus
+<div align="center">
 
-- 🔨 Building **NileTrace** data pipeline architecture (Azure IoT Hub → Event Hubs → Data Lake)
-- 📚 DEPI Scholarship: Microsoft Azure Data Engineer track
-- 🌱 Organizing **AgriTech Stack Egypt** — peer-learning collective
-- 💼 Seeking: Backend / Data Engineering roles at agriculture × technology intersection
+*Building the bridge between Egyptian soil and cloud infrastructure.*
 
----
-
-## GitHub Activity
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-stats.vercel.app/api?username=ibrahim13135&show_icons=true&theme=merko&hide_border=true&bg_color=0a0f0a&title_color=87bc4b&text_color=a8d46e&icon_color=4a7c23" alt="GitHub Stats" /&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim13135&theme=merko&hide_border=true&background=0a0f0a&stroke=4a7c23&ring=87bc4b&fire=87bc4b&currStreakLabel=87bc4b&sideLabels=a8d46e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" /&gt;
-&lt;/p&gt;
-
----
-
-## Languages
-
-- **Arabic:** Native
-- **English:** Professional Working Proficiency (B2+ — fluent in technical documentation and client presentations)
-
----
-
-## Connect
-
-- **Email:** abrahimmahmoud5454@gmail.com
-- **LinkedIn:** [linkedin.com/in/ibrahim-mahmoud-83106a320](https://www.linkedin.com/in/ibrahim-mahmoud-83106a320/)
-- **Location:** Cairo, Egypt · Open to remote EU/MENA roles
-
----
-
-&gt; *"I am not looking for a desk job or a title. I am looking for a problem worth solving with code and soil data."*
+</div>
