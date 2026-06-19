@@ -3,11 +3,9 @@
   &lt;img src="https://raw.githubusercontent.com/ibrahim13135/ibrahim13135/main/banner.png" alt="Ibrahim Mahmoud - Agricultural Engineer & Backend Developer" /&gt;
 &lt;/p&gt;
 
-&lt;!-- Identity Line --&gt;
 &lt;h1 align="center"&gt;Ibrahim Mahmoud&lt;/h1&gt;
 &lt;h3 align="center"&gt;Agricultural Engineer · Backend Developer (ALX) · IoT & Precision Agriculture Systems&lt;/h3&gt;
 
-&lt;!-- Location & Contact --&gt;
 &lt;p align="center"&gt;
   &lt;img src="https://img.shields.io/badge/📍-Egypt-2d5016?style=flat-square" alt="Location" /&gt;
   &lt;a href="mailto:abrahimmahmoud5454@gmail.com"&gt;&lt;img src="https://img.shields.io/badge/✉️-Email-87bc4b?style=flat-square" alt="Email" /&gt;&lt;/a&gt;
@@ -47,7 +45,7 @@ Automated irrigation platform controlling pumps, valves, and lighting via sensor
 - Real-time soil moisture + environmental monitoring
 - Remote API control with data logging for farm managers
 
-**[Repository](https://github.com/ibrahim13135/Graduation_Project)** · [Video Demo](your-link-here)
+**[Repository](https://github.com/ibrahim13135/Graduation_Project)**
 
 ---
 
@@ -58,7 +56,6 @@ Convolutional Neural Network classifying 10 crop diseases from leaf imagery. Dep
 
 - **92% validation accuracy** across disease classes
 - Image augmentation pipeline for limited datasets
-- Treatment recommendation engine per diagnosis
 
 **[Repository](https://github.com/ibrahim13135/plant-disease-cnn)**
 
@@ -67,10 +64,9 @@ Convolutional Neural Network classifying 10 crop diseases from leaf imagery. Dep
 ### 🌤️ Weather & Evaporation Modeling
 &gt; *Python · scikit-learn · Time Series Regression*
 
-Predictive models for localized evapotranspiration rates using historical meteorological data. Drives irrigation scheduling precision.
+Predictive models for localized evapotranspiration rates using historical meteorological data.
 
-- **20% improvement** in irrigation timing accuracy vs. calendar-based methods
-- Correlation analysis: temperature, humidity, wind speed, solar radiation
+- **20% improvement** in irrigation timing accuracy
 
 **[Repository](https://github.com/ibrahim13135/weather-evaporation-model)**
 
@@ -82,15 +78,13 @@ Predictive models for localized evapotranspiration rates using historical meteor
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**IoT & Data**
+**IoT & DevOps**
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -102,14 +96,14 @@ Predictive models for localized evapotranspiration rates using historical meteor
 
 ## Current Focus
 
-- 🔨 Building **NileTrace** data pipeline architecture (Azure IoT Hub → Event Hubs → Data Lake)
+- 🔨 Building **NileTrace** data pipeline architecture
 - 📚 DEPI Scholarship: Microsoft Azure Data Engineer track
-- 🌱 Organizing **AgriTech Stack Egypt** — peer-learning collective for agricultural technologists
-- 💼 Seeking: Backend / Data Engineering roles at the intersection of agriculture and cloud technology
+- 🌱 Organizing **AgriTech Stack Egypt** — peer-learning collective
+- 💼 Seeking: Backend / Data Engineering roles at agriculture × technology intersection
 
 ---
 
-## GitHub Metrics
+## GitHub Activity
 
 &lt;p align="center"&gt;
   &lt;img src="https://github-readme-stats.vercel.app/api?username=ibrahim13135&show_icons=true&theme=merko&hide_border=true&bg_color=0a0f0a&title_color=87bc4b&text_color=a8d46e&icon_color=4a7c23" alt="GitHub Stats" /&gt;
