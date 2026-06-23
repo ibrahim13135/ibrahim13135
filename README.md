@@ -32,7 +32,7 @@ I build the systems that connect Egyptian agriculture to modern technology — f
 
 End-to-end farm-to-port batch tracking for Egyptian exporters. Auto-generates EU phytosanitary compliance documents, QR codes for consumer transparency, and real-time dashboard analytics.
 
-**Status:** In active development · [Repository](https://github.com/ibrahim13135/niletrace)
+**Status:** In active development · [Repository](https://github.com/ibrahim13135/NileTrace)
 
 ---
 
