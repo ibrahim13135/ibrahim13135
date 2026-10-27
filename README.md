@@ -2,10 +2,6 @@
   <img src="assets/agritech-banner.png" alt="Ibrahim Mahmoud — AgriTech Engineer. Agriculture, IoT, Software and Applied AI." width="100%" />
 </p>
 
-<p align="center">
-  <img src="assets/ibrahim-mahmoud-portrait.jpg" alt="Ibrahim Mahmoud" width="180" />
-</p>
-
 <h1 align="center">Ibrahim Mahmoud</h1>
 <p align="center"><strong>Agricultural Engineer · Backend Developer · IoT & Edge Systems</strong></p>
 <p align="center">Building the connection between field measurements and useful software.</p>
