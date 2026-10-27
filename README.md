@@ -7,7 +7,7 @@
 <p align="center">Building the connection between field measurements and useful software.</p>
 
 <p align="center">
-  <img src="assets/engineering-intro.gif" alt="Animated introduction: field data, ESP32, Raspberry Pi, MQTT, and ALX backend engineering." width="100%" />
+  <img src="assets/engineering-intro.gif" alt="Animated introduction: field data, embedded systems, edge computing, and ALX backend engineering." width="100%" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## About me
 
-I'm an agricultural engineer and backend developer working at the intersection of **agriculture, embedded systems, and data**. My current work connects field sensors and ESP32 devices to Raspberry Pi gateways, local databases, APIs, and monitoring dashboards.
+I'm an agricultural engineer and backend developer working at the intersection of **agriculture, embedded systems, and data**. My current work connects field sensors and embedded controllers to edge gateways, local databases, APIs, and monitoring dashboards.
 
 I work through the full path: understand the agricultural problem, connect the hardware, collect the measurements, and build software that makes the data usable. I pay particular attention to what happens when connectivity drops, a device restarts, or a reading arrives late.
 
@@ -36,7 +36,7 @@ I work through the full path: understand the agricultural problem, connect the h
 
 **Current engineering work · Selected implementation details; source code is private**
 
-A local monitoring and control platform connecting wired soil probes, solar-powered ESP32 nodes, and a Raspberry Pi station.
+A local monitoring and control platform connecting wired soil probes, solar-powered sensor nodes, and a local data collection station.
 
 - Integrating **RS485 / Modbus RTU** probes and **MQTT** telemetry.
 - Developing local storage, delivery acknowledgements, persistent sample queues, and recovery behavior for interrupted connections.
@@ -45,7 +45,7 @@ A local monitoring and control platform connecting wired soil probes, solar-powe
 - Investigating field failures through device, broker, and station logs, with attention to power and network constraints.
 - Documenting wiring, component choices, deployment steps, and hardware qualification.
 
-**Stack:** TypeScript, Node.js, SQLite, MQTT, C/C++, ESP32, Raspberry Pi, Linux, Modbus RTU.
+**Stack:** TypeScript, Node.js, SQLite, MQTT, C/C++, Embedded Systems, Edge Computing, Linux, Modbus RTU.
 
 ### [NileTrace — Agricultural Traceability](https://github.com/ibrahim13135/NileTrace)
 
@@ -108,7 +108,7 @@ The foundations behind my current backend and IoT work: public training reposito
 
 **IoT & Edge Systems**
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![RS485 / Modbus](https://img.shields.io/badge/RS485%20%2F%20Modbus-176B64?style=flat-square) ![Sensor Integration](https://img.shields.io/badge/Sensor%20Integration-238636?style=flat-square)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-E7352C?style=flat-square) ![Edge Computing](https://img.shields.io/badge/Edge%20Computing-A22846?style=flat-square) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![RS485 / Modbus](https://img.shields.io/badge/RS485%20%2F%20Modbus-176B64?style=flat-square) ![Sensor Integration](https://img.shields.io/badge/Sensor%20Integration-238636?style=flat-square)
 
 **DevOps & Tools**
 
